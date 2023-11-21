@@ -10,46 +10,24 @@ I am particularly interested in movies and how they are percieved in different c
 
 ## Research Question
 
-**RQ:** How do cultural factors influence genre preferences in films across diverse regions and languages?
+How do cultural factors influence genre preferences in films across diverse regions and languages?
 
 ## Methodology
 
-### 1. Data Collection
+### 1. Data Source
 
-- Utilize movie databases such as IMDb and TMDb to compile a dataset of films.
+- Utilize movie databases around the world such as IMDb, TMDb, Letterboxd and Douban to compile a dataset of films and user reviews.
+- Data collection of box office performance for each film in different markets.
 - Extract information on title, release date, genre, director, country of production, and language.
+- Additional information on themes, historical context, and directal backgrounds.
 
-### 2. Data Cleaning and Preparation
+### 2. Quantitative Analysis
 
-- Clean the dataset by removing duplicates, irrelevant entries, or missing information.
-- Standardize genre categories to ensure consistency in analysis.
-
-### 3. Quantitative Analysis
-
-- Conduct frequency analysis to identify the prevalence of different film genres.
+- Conduct frequency analysis in cinema to identify the prevalence of different film genres.
 - Perform temporal analysis to observe changes in genre preferences over time.
-
-### 4. Multicultural Comparison
-
-- Group films based on country or region of production.
-- Analyze genre preferences within each region to identify cultural variations.
-
-### 5. Cultural Context Analysis
-
-- Explore the relationship between film genres and cultural themes.
-- Analyze the influence of directorial backgrounds on genre choices.
-
-### 6. Machine Learning Prediction
-
-- Implement machine learning algorithms to predict the likely genre of a film based on cultural and contextual features.
-- Evaluate the accuracy of the model in predicting genre preferences.
-
-## Data Requirements
-
-- Comprehensive movie dataset including title, release date, genre, director, country of production, and language.
-- Additional data on cultural themes, historical context, and directorial backgrounds.
+- Analyze genre preferences within each country or region based on reviews and grossings to identify cultural variations. For example, statistics on the genres of highest_rating and highest-grossing in different cultures.
 
 ## Tools and Technologies
 
 - Statistical software such as Python with pandas for quantitative analysis.
-- Data visualization tools like Matplotlib and Tableau for creating visual representations.
+- Data visualization tools like Matplotlib for creating visual representations.
