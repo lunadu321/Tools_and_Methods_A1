@@ -25,7 +25,7 @@ How do cultural factors influence genre preferences in films across diverse regi
 
 - Conduct frequency analysis in cinema to identify the prevalence of different film genres.
 - Perform temporal analysis to observe changes in genre preferences over time.
-- Analyze genre preferences within each country or region based on reviews and grossings to identify cultural variations. For example, statistics on the genres of highest_rating and highest-grossing in different cultures.
+- Analyze genre preferences within each country or region based on reviews and grossings to identify cultural variations. For example, statistics on the genres of highest_rating and highest-grossing in different countries.
 
 ## Tools and Technologies
 
