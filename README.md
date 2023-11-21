@@ -1,12 +1,12 @@
-# Project: Genre Preferences Across Cultures
+# Project: Film Genre Preferences Across Cultures
 
 ## Overview
 
-This project aims to explore and analyze genre preferences in films across different cultures. The investigation will delve into how cultural factors influence audience preferences for specific film genres. By examining existing research and leveraging quantitative analysis, the project seeks to identify trends, variations, and potential cultural influences on genre choices.
+This project aims to explore and analyze genre preferences in films across different cultures. The investigation will delve into whether and how cultural factors influence audience preferences for specific film genres. By examining existing research and developing quantitative analysis, the project seeks to identify trends, variations, and potential cultural influences on genre choices.
 
-## Context
+## Background
 
-Existing research in film studies has touched upon cultural influences on audience reception and genre preferences. Scholars such as [Author1] (Year) and [Author2] (Year) have explored the intersection of cultural context and film genre, suggesting that certain cultural elements may shape audience preferences. However, a comprehensive cross-cultural analysis is needed to provide a nuanced understanding of these dynamics.
+I am particularly interested in movies and how they are percieved in different cultures. Existing research in film studies has already explored cultural influences on audience reception and genre preferences. For example, by analyzing data from movie review website and box office revenue, [Chiu et al (2019)](https://www.emerald.com/insight/content/doi/10.1108/IMR-06-2018-0190/full/html) found that Chinese audience are not as interested in comedy and drama as American. Following their approach, I want to see how audiences across the world might have different genre preferences.
 
 ## Research Question
 
@@ -51,13 +51,5 @@ Existing research in film studies has touched upon cultural influences on audien
 
 ## Tools and Technologies
 
-- Statistical software such as Python with pandas and R for quantitative analysis.
-- Machine learning libraries like scikit-learn for prediction models.
+- Statistical software such as Python with pandas for quantitative analysis.
 - Data visualization tools like Matplotlib and Tableau for creating visual representations.
-
-## Challenges
-
-- Ensuring data accuracy and completeness, addressing biases in movie databases.
-- Cultural sensitivity in interpreting results, considering cultural nuances in genre preferences.
-- Addressing the evolving nature of film and genre preferences over time.
-
